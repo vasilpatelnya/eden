@@ -1,0 +1,6 @@
+{
+    "go.toolsEnvVars": {
+        "GOROOT": "/home/stepan/.cache/tinygo/goroot-go1.15.2-bb8dfc1625dfff39df9d5a78a474eb93c273cccfe3243ee4e33bafef0dcd97fe-syscall",
+        "GOFLAGS": "-tags=cortexm,baremetal,linux,arm,nrf51822,nrf51,nrf,microbit,tinygo,gc.conservative,scheduler.tasks"
+    }
+}
